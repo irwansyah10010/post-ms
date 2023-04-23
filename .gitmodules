@@ -10,3 +10,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/irwansyah10010/user-service-ms.git
+[submodule "discovery-ureka-ms"]
+	path = discovery-ureka-ms
+	url = https://github.com/irwansyah10010/discovery-ureka-ms.git
