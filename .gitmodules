@@ -1,3 +1,12 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/irwansyah10010/product-service-ms.git
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/irwansyah10010/customer-service-ms.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/irwansyah10010/order-service-ms.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/irwansyah10010/user-service-ms.git
